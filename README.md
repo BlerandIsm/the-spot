@@ -1,4 +1,4 @@
-# The Spot
+# The Spot https://the-spot-group.herokuapp.com/
   [![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)]
   ## Description:
   The Spot is the hottest social media gathering all artists around USA in one place. Everyone can create a profile and link to other artists, managers, agents, event organizers and event locations. The users have the chance to add friends, post their preferences, set their feed based on location and many more
